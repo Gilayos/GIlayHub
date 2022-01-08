@@ -4,6 +4,7 @@
 SQL = On
 SMB = Off
 FTP = On
+Kerberos = On
 POP = On
 SMTP = On
 IMAP = On
