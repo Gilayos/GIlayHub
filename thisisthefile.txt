@@ -9,7 +9,7 @@ POP = On
 SMTP = On
 IMAP = On
 HTTP = Off
-HTTPS = Off
+HTTPS = On
 DNS = On
 LDAP = On
 
